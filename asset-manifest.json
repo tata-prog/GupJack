@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/GupJack/static/css/main.52aab63c.chunk.css",
-    "main.js": "/GupJack/static/js/main.d16b741e.chunk.js",
-    "main.js.map": "/GupJack/static/js/main.d16b741e.chunk.js.map",
-    "runtime-main.js": "/GupJack/static/js/runtime-main.e55b16f7.js",
-    "runtime-main.js.map": "/GupJack/static/js/runtime-main.e55b16f7.js.map",
-    "static/js/2.80300ddf.chunk.js": "/GupJack/static/js/2.80300ddf.chunk.js",
-    "static/js/2.80300ddf.chunk.js.map": "/GupJack/static/js/2.80300ddf.chunk.js.map",
+    "main.js": "/GupJack/static/js/main.3a8d6ec1.chunk.js",
+    "main.js.map": "/GupJack/static/js/main.3a8d6ec1.chunk.js.map",
+    "runtime-main.js": "/GupJack/static/js/runtime-main.35d6b468.js",
+    "runtime-main.js.map": "/GupJack/static/js/runtime-main.35d6b468.js.map",
+    "static/js/2.ef2e47e2.chunk.js": "/GupJack/static/js/2.ef2e47e2.chunk.js",
+    "static/js/2.ef2e47e2.chunk.js.map": "/GupJack/static/js/2.ef2e47e2.chunk.js.map",
     "index.html": "/GupJack/index.html",
-    "precache-manifest.42064d3584cc74cea7bfff8625d3730e.js": "/GupJack/precache-manifest.42064d3584cc74cea7bfff8625d3730e.js",
+    "precache-manifest.8a97f712408d16848efd8ea679528fb3.js": "/GupJack/precache-manifest.8a97f712408d16848efd8ea679528fb3.js",
     "service-worker.js": "/GupJack/service-worker.js",
     "static/css/main.52aab63c.chunk.css.map": "/GupJack/static/css/main.52aab63c.chunk.css.map",
-    "static/js/2.80300ddf.chunk.js.LICENSE.txt": "/GupJack/static/js/2.80300ddf.chunk.js.LICENSE.txt"
+    "static/js/2.ef2e47e2.chunk.js.LICENSE.txt": "/GupJack/static/js/2.ef2e47e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e55b16f7.js",
-    "static/js/2.80300ddf.chunk.js",
+    "static/js/runtime-main.35d6b468.js",
+    "static/js/2.ef2e47e2.chunk.js",
     "static/css/main.52aab63c.chunk.css",
-    "static/js/main.d16b741e.chunk.js"
+    "static/js/main.3a8d6ec1.chunk.js"
   ]
 }
