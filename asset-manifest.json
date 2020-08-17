@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GupJack/static/css/main.1a56403b.chunk.css",
+    "main.js": "/GupJack/static/js/main.0b92571b.chunk.js",
+    "main.js.map": "/GupJack/static/js/main.0b92571b.chunk.js.map",
+    "runtime-main.js": "/GupJack/static/js/runtime-main.e19ac21d.js",
+    "runtime-main.js.map": "/GupJack/static/js/runtime-main.e19ac21d.js.map",
+    "static/js/2.9f99aa67.chunk.js": "/GupJack/static/js/2.9f99aa67.chunk.js",
+    "static/js/2.9f99aa67.chunk.js.map": "/GupJack/static/js/2.9f99aa67.chunk.js.map",
+    "index.html": "/GupJack/index.html",
+    "precache-manifest.ec9614a3e2166a36c0fb72c117206f01.js": "/GupJack/precache-manifest.ec9614a3e2166a36c0fb72c117206f01.js",
+    "service-worker.js": "/GupJack/service-worker.js",
+    "static/css/main.1a56403b.chunk.css.map": "/GupJack/static/css/main.1a56403b.chunk.css.map",
+    "static/js/2.9f99aa67.chunk.js.LICENSE.txt": "/GupJack/static/js/2.9f99aa67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e19ac21d.js",
+    "static/js/2.9f99aa67.chunk.js",
+    "static/css/main.1a56403b.chunk.css",
+    "static/js/main.0b92571b.chunk.js"
+  ]
+}
