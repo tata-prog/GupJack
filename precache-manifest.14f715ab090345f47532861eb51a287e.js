@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad6fffa01d84cc9abf97c71b0890ac20",
+    "revision": "966a26e5060bda86fdb65a57a0fe5ea2",
     "url": "/GupJack/index.html"
   },
   {
-    "revision": "e95bff5a539d8406baf1",
+    "revision": "1288512fb7e7dc5232f0",
     "url": "/GupJack/static/css/main.1be0f59b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GupJack/static/js/2.ef2e47e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e95bff5a539d8406baf1",
-    "url": "/GupJack/static/js/main.4f2bc9e2.chunk.js"
+    "revision": "1288512fb7e7dc5232f0",
+    "url": "/GupJack/static/js/main.2b66c0a2.chunk.js"
   },
   {
     "revision": "a9f3e890ca799d510ca8",
